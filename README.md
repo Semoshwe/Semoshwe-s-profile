@@ -5,14 +5,75 @@ Hello my name is Semoshwe Mapokgole, welcome to my digital portfolio for the Wor
 ---
 
 ##  Career Counselling
--**Evidence**
+### Evidence
 
 - I have completed the career development module and the quiz
 - i learnt about long-term career goals, values and SMART goals
 -  !([Career Development.png](https://github.com/Semoshwe/Semoshwe-s-profile/blob/b3715f74fe58c6b42be2dd79f5d36c1a37df5fd6/Career%20Development.png)
 
+### Reflection
+**S:** i needed to set my career goals and where i would want to see myself
+**T:** i had to set a clear plan that i could follow for my career 
+**A:** i used the SMART method to identify my strengths and weakness
+**R:** i now have a career development plan that i can follow
+
 ---
 
+## Skills and Interest 
+### Evidence
+- i have completed the Skills and Interest Module and quiz
+- Identified job skills and tranfereable skills
+-
+
+### Reflection
+**S:** 
+**T:**
+**A:**
+**R:**
+
+---
+
+## Skills and Interest 
+### Evidence
+-
+-
+-
+
+### Reflection
+**S:** 
+**T:**
+**A:**
+**R:**
+
+---
+
+## Skills and Interest 
+### Evidence
+-
+-
+-
+
+### Reflection
+**S:** 
+**T:**
+**A:**
+**R:**
+
+---
+
+## Skills and Interest 
+### Evidence
+-
+-
+-
+
+### Reflection
+**S:** 
+**T:**
+**A:**
+**R:**
+
+---
 ## 💼 Skills
 
 - **Programming Languages:** Python, Java [add more...]
