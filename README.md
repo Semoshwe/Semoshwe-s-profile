@@ -9,7 +9,7 @@ Hello my name is Semoshwe Mapokgole, welcome to my digital portfolio for the Wor
 
 - I have completed the career development module and the quiz
 - i learnt about long-term career goals, values and SMART goals
-  
+  ![Career Development](Career Development.png)
 
 ---
 
