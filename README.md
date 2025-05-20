@@ -50,7 +50,7 @@ Hello my name is Semoshwe Mapokgole, welcome to my digital portfolio for the Wor
 ## Create a CV 
 ### Evidence
 - i have completed my CV using Word Document
-- [Semoshwe Mapokgole's CV]
+- [Semoshwe Mapokgole's CV](https://github.com/Semoshwe/Semoshwe-s-profile/blob/8005253f080b56f68428f2b00dd5f430fd20ca05/Semoshwe%20CV%20.pdf)
 -
 
 ### Reflection
