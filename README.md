@@ -64,7 +64,7 @@ Hello my name is Semoshwe Mapokgole, welcome to my digital portfolio for the Wor
 ## CV Submission 
 ### Evidence
 - I submitted the CV on Blackboard as instructed
-- [CV Submission.png]
+- [CV Submission.png](https://github.com/Semoshwe/Semoshwe-s-profile/blob/f9703e7a35eccf405bc40429f5558ae16de899f8/Screenshot%202025-05-20%20160704.png)
 -
 
 ### Reflection
