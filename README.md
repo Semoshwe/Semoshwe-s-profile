@@ -37,7 +37,7 @@ Hello my name is Semoshwe Mapokgole, welcome to my digital portfolio for the Wor
 ### Evidence
 - my Personality type is a realistic and conventional 
 - i can not think in abstract i enjoy tangile tasks. i prefer order and following procedures 
-- [Personality assessment.png]
+- [Personality assessment.png](https://github.com/Semoshwe/Semoshwe-s-profile/blob/4f7facdde26050eab2f1daf19271daac424cd211/Personal%20Assessment.png)
 
 ### Reflection
 - **S:** i wanted to understand where does my personality thrive the most
