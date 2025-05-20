@@ -1,12 +1,15 @@
-# My Digital Portfolio
+# 👤 My Digital Portfolio
 
-Welcome to my digital portfolio! Here you'll find a small synopsis of who i am and what i have done in this course 
+Hello my name is Semoshwe Mapokgole, welcome to my digital portfolio for the Work Readiness Training. It consumes of evidence and reflection for each section of the course that i have completed. 
 
 ---
 
-## 👤 About Me
+##  Career Counselling
+-**Evidence**
 
-Hello I'm Semoshwe Mapokgole, I am a final year student studying ICT in Application Development at Cape Peninsula University of Technology. I am passionate about software developer with an interest in web technologies. I'm always eager to learn and take on new challenges. 
+- I have completed the career development module and the quiz
+- i learnt about long-term career goals, values and SMART goals
+  
 
 ---
 
