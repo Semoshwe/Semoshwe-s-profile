@@ -61,7 +61,7 @@ professional Networking
 ## Workplace Etiquette
 ### Evidence
 - i have completed the workplace etiquette module and quiz
-- 
+- Workplace Etiquette.png 
 - [Semoshwe Mapokgole's CV](https://github.com/Semoshwe/Semoshwe-s-profile/blob/8005253f080b56f68428f2b00dd5f430fd20ca05/Semoshwe%20CV%20.pdf)
 -
 
