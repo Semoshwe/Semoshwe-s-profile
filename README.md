@@ -62,7 +62,7 @@ Hello my name is Semoshwe Mapokgole, welcome to my digital portfolio for the Wor
 ### Evidence
 - i have completed the workplace etiquette module and quiz
 - i know how to handle important information from the workplace
-- 
+- https://github.com/Semoshwe/Semoshwe-s-profile/blob/fe777e2eb280cc3d515107c2e1f8c7a96ac46633/workplace%202.png
 - https://github.com/Semoshwe/Semoshwe-s-profile/blob/391f3b259d00b09803d8ff3c0fc3199ad26acb55/Workplace%20Etiquette.png
   
 
