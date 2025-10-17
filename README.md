@@ -23,8 +23,7 @@ Hello my name is Semoshwe Mapokgole, welcome to my digital portfolio for the Wor
 ### Evidence
 - i have completed the interview skills and quiz
 - i learnt skills that i can use in a interview and questions that i can practice for future interviews 
-- [Skills and Interrst.png](https://github.com/Semoshwe/Semoshwe-s-profile/blob/e5b37d2d388cb59113feac295b8bc7472b2f484e/Skills%20and%20Interest.png)
-
+- 
 ### Reflection
 - **S:** i had trouble identifying what my interest was before 
 - **T:** Discover my skills and interest 
@@ -37,7 +36,7 @@ Hello my name is Semoshwe Mapokgole, welcome to my digital portfolio for the Wor
 ### Evidence
 - I conducted a mock interview to practice the skills i have learnt and prepare well 
 - i learnt to speak out loud and clear so i can be heard.
-- [Personality assessment.png](https://github.com/Semoshwe/Semoshwe-s-profile/blob/4f7facdde26050eab2f1daf19271daac424cd211/Personal%20Assessment.png)
+- https://drive.google.com/file/d/1j6Te6N0BV4Bkz2p-ICxQrlzPUiDyZEDP/view?usp=sharing
 
 ### Reflection
 - **S:** i wanted to understand where does my personality thrive the most
