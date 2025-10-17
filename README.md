@@ -46,7 +46,7 @@ Hello my name is Semoshwe Mapokgole, welcome to my digital portfolio for the Wor
 - **R:** i now know how to answer questions confidently that are commonly asked
 ---
 
-## professional Networking
+## Professional Networking
 ### Evidence
 - i learnt what to do and what not to do in networking and what to do first when trying to network professionally
 - https://github.com/Semoshwe/Semoshwe-s-profile/blob/4c570318f731234551e89b8bc3151d0be05666ff/Professional%20Networking.png
@@ -64,7 +64,7 @@ Hello my name is Semoshwe Mapokgole, welcome to my digital portfolio for the Wor
 - i have completed the workplace etiquette module and quiz
 - i know how to handle important information from the workplace
 - i know how to handle myself in the workplace in a way that is appropriate
-- 
+- https://github.com/Semoshwe/Semoshwe-s-profile/blob/391f3b259d00b09803d8ff3c0fc3199ad26acb55/Workplace%20Etiquette.png
   
 
 ### Reflection
