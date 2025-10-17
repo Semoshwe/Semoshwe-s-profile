@@ -49,8 +49,8 @@ Hello my name is Semoshwe Mapokgole, welcome to my digital portfolio for the Wor
 ## professional Networking
 ### Evidence
 - i learnt what to do and what not to do in networking and what to do first when trying to network professionally
-- 
--
+- https://github.com/Semoshwe/Semoshwe-s-profile/blob/4c570318f731234551e89b8bc3151d0be05666ff/Professional%20Networking.png
+- https://www.linkedin.com/in/semoshwe-mapokgole-9973491b6/
 
 ### Reflection
 - **S:** i needed to learn how to network successfully with other people in my field  
@@ -62,30 +62,18 @@ Hello my name is Semoshwe Mapokgole, welcome to my digital portfolio for the Wor
 ## Workplace Etiquette
 ### Evidence
 - i have completed the workplace etiquette module and quiz
--  
+- i know how to handle important information from the workplace
+- i know how to handle myself in the workplace in a way that is appropriate
+- 
   
 
 ### Reflection
-**S:** i needed a cv that could grab the recruiters attention and portray my achievements and what i have to offer 
-**T:** Create a attractive and effective CV
-**A:** Used Word Documents and added necessary information 
-**R:** i have a cv that i can use in my job applications 
+**S:** i needed to learn how to present myself in a way that was correct and how to handle unfavorable situations 
+**T:** Coming to meetings early to show that i am punctual 
+**A:** comming early for stand up meetings  
+**R:** I have set a standard for myself to arrive early  
 
 ---
 
 
 _Thank you for visiting my portfolio!_
-
-# GitHub-Digital-Portfolio
-##Business Communication
-###Evidence 
-i have completed the skills 
-
-##Interview Skills 
-
-##Mock Interview 
-
-##Professional Networking 
-
-##Workplace Etiquette
-
