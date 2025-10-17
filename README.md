@@ -9,7 +9,7 @@ Hello my name is Semoshwe Mapokgole, welcome to my digital portfolio for the Wor
 
 - I have completed the business communication module and the quiz
 - i learnt about how to communicate well in the different forms of communication and when to use the different types of language
-- 
+- https://github.com/Semoshwe/Semoshwe-s-profile/blob/89b99b2b00a6609b5412c86323e3fdc2974c6b60/business%20communication.png 
 
 ### Reflection
 - **S:** i needed to set my career goals and where i would want to see myself
