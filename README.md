@@ -1,6 +1,6 @@
 # 👤 My Digital Portfolio
 
-Hello my name is Semoshwe Mapokgole, welcome to my digital portfolio for the Work Readiness Training. It consumes of evidence and reflection for each section of the course that i have completed. 
+Hello my name is Semoshwe Mapokgole, welcome to my digital portfolio for the Work Readiness Training. It consumes of evidence and reflection for each section of the course that I have completed. 
 
 ---
 
@@ -8,68 +8,68 @@ Hello my name is Semoshwe Mapokgole, welcome to my digital portfolio for the Wor
 ### Evidence
 
 - I have completed the business communication module and the quiz
-- i learnt about how to communicate well in the different forms of communication and when to use the different types of language
+- I learnt about how to communicate well in the different forms of communication and when to use the different types of language
 - https://github.com/Semoshwe/Semoshwe-s-profile/blob/89b99b2b00a6609b5412c86323e3fdc2974c6b60/business%20communication.png 
 
 ### Reflection
-- **S:** During this module i did not know how to conduct a professional email with the correct tone.
+- **S:** During this module I did not know how to conduct a professional email with the correct tone.
 - **T:** learn different tones to write a email and which one wass appropriate  
-- **A:** write a more appropriate email and speak with the correct tone and use etiquette
-- **R:** i can now write a correct email
+- **A:** Write a more appropriate email and speak with the correct tone and use etiquette
+- **R:** I can now write a correct email
 
 ---
 
 ## Interview Skills
 ### Evidence
-- i have completed the interview skills and quiz
-- i learnt skills that i can use in a interview and questions that i can practice for future interviews
+- I have completed the interview skills and quiz
+- I learnt skills that I can use in a interview and questions that I can practice for future interviews
 - https://github.com/Semoshwe/Semoshwe-s-profile/blob/576e68491b005f5ffd4b6c8f63bbb3ed07a41b4a/interview%20skills.png
   
 ### Reflection
-- **S:** i had to speak up and clear to be heared and understood 
-- **T:** i had to repeatedly practice questions that could be asked in a interview 
-- **A:**  repeatedly practice questions and speak up when i practice these questions 
-- **R:** i learnt how to speak up and cleared
+- **S:** I had to speak up and clear to be heared and understood 
+- **T:** I had to repeatedly practice questions that could be asked in a interview 
+- **A:** Repeatedly practice questions and speak up when I practice these questions 
+- **R:** I learnt how to speak up and cleared
 ---
 
 ## Mock Interview 
 ### Evidence
-- I conducted a mock interview to practice the skills i have learnt and prepare well 
-- i learnt to speak out loud and clear so i can be heard.
+- I conducted a mock interview to practice the skills I have learnt and prepare well 
+- I learnt to speak out loud and clear so I can be heard.
 - https://drive.google.com/file/d/1j6Te6N0BV4Bkz2p-ICxQrlzPUiDyZEDP/view?usp=sharing 
 
 ### Reflection
-- **S:** i wanted to be ready for my first interview online or physical 
+- **S:** I wanted to be ready for my first interview online or physical 
 - **T:** Complete a mock interview with commonly asked questions in interview 
-- **A:** i completed the mock interview
-- **R:** i now know how to answer questions confidently that are commonly asked
+- **A:** I completed the mock interview
+- **R:** I now know how to answer questions confidently that are commonly asked
 ---
 
 ## Professional Networking
 ### Evidence
-- i learnt what to do and what not to do in networking and what to do first when trying to network professionally
+- I learnt what to do and what not to do in networking and what to do first when trying to network professionally
 - https://github.com/Semoshwe/Semoshwe-s-profile/blob/4c570318f731234551e89b8bc3151d0be05666ff/Professional%20Networking.png
 - https://www.linkedin.com/in/semoshwe-mapokgole-9973491b6/
 
 ### Reflection
-- **S:** i needed to learn how to network successfully with other people in my field  
+- **S:** I needed to learn how to network successfully with other people in my field  
 - **T:** Find ways to network
-- **A:** i used LinkedIn to find other people that are studying or once studyed my course to network with  
-- **R:** i have more people i can ask for pointers 
+- **A:** I used LinkedIn to find other people that are studying or once studyed my course to network with  
+- **R:** I have more people I can ask for pointers 
 ---
 
 ## Workplace Etiquette
 ### Evidence
-- i have completed the workplace etiquette module and quiz
-- i know how to handle important information from the workplace
+- I have completed the workplace etiquette module and quiz
+- I know how to handle important information from the workplace
 - https://github.com/Semoshwe/Semoshwe-s-profile/blob/fe777e2eb280cc3d515107c2e1f8c7a96ac46633/workplace%202.png
 - https://github.com/Semoshwe/Semoshwe-s-profile/blob/391f3b259d00b09803d8ff3c0fc3199ad26acb55/Workplace%20Etiquette.png
   
 
 ### Reflection
-- **S:** i needed to learn how to present myself in a way that was correct and how to handle unfavorable situations 
-- **T:** Coming to meetings early to show that i am punctual 
-- **A:** comming early for stand up meetings  
+- **S:** I needed to learn how to present myself in a way that was correct and how to handle unfavorable situations 
+- **T:** Coming to meetings early to show that I am punctual 
+- **A:** Comming early for stand up meetings  
 - **R:** I have set a standard for myself to arrive early  
 
 ---
