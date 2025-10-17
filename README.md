@@ -23,7 +23,7 @@ Hello my name is Semoshwe Mapokgole, welcome to my digital portfolio for the Wor
 ### Evidence
 - i have completed the interview skills and quiz
 - i learnt skills that i can use in a interview and questions that i can practice for future interviews
-- 
+- https://github.com/Semoshwe/Semoshwe-s-profile/blob/576e68491b005f5ffd4b6c8f63bbb3ed07a41b4a/interview%20skills.png
   
 ### Reflection
 - **Situation:** i had to speak up and clear to be heared and understood 
