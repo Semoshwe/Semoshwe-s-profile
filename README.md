@@ -9,7 +9,7 @@ Hello my name is Semoshwe Mapokgole, welcome to my digital portfolio for the Wor
 
 - I have completed the business communication module and the quiz
 - i learnt about how to communicate well in the different forms of communication and when to use the different types of language
--  [Career Development.png](https://github.com/Semoshwe/Semoshwe-s-profile/blob/b3715f74fe58c6b42be2dd79f5d36c1a37df5fd6/Career%20Development.png)
+- 
 
 ### Reflection
 - **S:** i needed to set my career goals and where i would want to see myself
@@ -36,7 +36,7 @@ Hello my name is Semoshwe Mapokgole, welcome to my digital portfolio for the Wor
 ### Evidence
 - I conducted a mock interview to practice the skills i have learnt and prepare well 
 - i learnt to speak out loud and clear so i can be heard.
-- https://drive.google.com/file/d/1j6Te6N0BV4Bkz2p-ICxQrlzPUiDyZEDP/view?usp=sharing
+- https://drive.google.com/file/d/1j6Te6N0BV4Bkz2p-ICxQrlzPUiDyZEDP/view?usp=sharing 
 
 ### Reflection
 - **S:** i wanted to understand where does my personality thrive the most
@@ -61,9 +61,8 @@ professional Networking
 ## Workplace Etiquette
 ### Evidence
 - i have completed the workplace etiquette module and quiz
-- Workplace Etiquette.png 
-- [Semoshwe Mapokgole's CV](https://github.com/Semoshwe/Semoshwe-s-profile/blob/8005253f080b56f68428f2b00dd5f430fd20ca05/Semoshwe%20CV%20.pdf)
--
+-  
+  
 
 ### Reflection
 **S:** i needed a cv that could grab the recruiters attention and portray my achievements and what i have to offer 
