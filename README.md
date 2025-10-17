@@ -4,7 +4,7 @@ Hello my name is Semoshwe Mapokgole, welcome to my digital portfolio for the Wor
 
 ---
 
-##  Career Counselling
+##  Business Communication
 ### Evidence
 
 - I have completed the career development module and the quiz
@@ -19,7 +19,7 @@ Hello my name is Semoshwe Mapokgole, welcome to my digital portfolio for the Wor
 
 ---
 
-## Skills and Interest 
+## Interview Skills
 ### Evidence
 - i have completed the Skills and Interest Module and quiz
 - Identified job skills and tranfereable skills
@@ -33,7 +33,7 @@ Hello my name is Semoshwe Mapokgole, welcome to my digital portfolio for the Wor
 
 ---
 
-## Personality Assessment
+## Mock Interview 
 ### Evidence
 - my Personality type is a realistic and conventional 
 - i can not think in abstract i enjoy tangile tasks. i prefer order and following procedures 
@@ -46,8 +46,20 @@ Hello my name is Semoshwe Mapokgole, welcome to my digital portfolio for the Wor
 - **R:** i now know where i thrive the most and focus on these places so i am more beneficail in those environments
 
 ---
+Workplace Etiquette
+### Evidence
+- i have completed my CV using Word Document
+- [Semoshwe Mapokgole's CV](https://github.com/Semoshwe/Semoshwe-s-profile/blob/8005253f080b56f68428f2b00dd5f430fd20ca05/Semoshwe%20CV%20.pdf)
+-
 
-## Create a CV 
+### Reflection
+**S:** i needed a cv that could grab the recruiters attention and portray my achievements and what i have to offer 
+**T:** Create a attractive and effective CV
+**A:** Used Word Documents and added necessary information 
+**R:** i have a cv that i can use in my job applications 
+---
+
+## Workplace Etiquette
 ### Evidence
 - i have completed my CV using Word Document
 - [Semoshwe Mapokgole's CV](https://github.com/Semoshwe/Semoshwe-s-profile/blob/8005253f080b56f68428f2b00dd5f430fd20ca05/Semoshwe%20CV%20.pdf)
@@ -61,19 +73,19 @@ Hello my name is Semoshwe Mapokgole, welcome to my digital portfolio for the Wor
 
 ---
 
-## CV Submission 
-### Evidence
-- I submitted the CV on Blackboard as instructed
-- [CV Submission.png](https://github.com/Semoshwe/Semoshwe-s-profile/blob/f9703e7a35eccf405bc40429f5558ae16de899f8/Screenshot%202025-05-20%20160704.png)
--
-
-### Reflection
-**S:** i needed a CV that could attract potential recruiters 
-**T:** Submit CV in time to recieve feedback 
-**A:** Submitted CV on time and took the feedback into consideration and made changes
-**R:** I have a CV that can be used to apply for jobs 
-
----
-
 
 _Thank you for visiting my portfolio!_
+
+# GitHub-Digital-Portfolio
+##Business Communication
+###Evidence 
+i have completed the skills 
+
+##Interview Skills 
+
+##Mock Interview 
+
+##Professional Networking 
+
+##Workplace Etiquette
+
