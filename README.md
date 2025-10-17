@@ -67,10 +67,10 @@ Hello my name is Semoshwe Mapokgole, welcome to my digital portfolio for the Wor
   
 
 ### Reflection
-**S:** i needed to learn how to present myself in a way that was correct and how to handle unfavorable situations 
-**T:** Coming to meetings early to show that i am punctual 
-**A:** comming early for stand up meetings  
-**R:** I have set a standard for myself to arrive early  
+- **S:** i needed to learn how to present myself in a way that was correct and how to handle unfavorable situations 
+- **T:** Coming to meetings early to show that i am punctual 
+- **A:** comming early for stand up meetings  
+- **R:** I have set a standard for myself to arrive early  
 
 ---
 
