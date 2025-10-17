@@ -22,13 +22,14 @@ Hello my name is Semoshwe Mapokgole, welcome to my digital portfolio for the Wor
 ## Interview Skills
 ### Evidence
 - i have completed the interview skills and quiz
-- i learnt skills that i can use in a interview and questions that i can practice for future interviews 
+- i learnt skills that i can use in a interview and questions that i can practice for future interviews
 - 
+  
 ### Reflection
-- **S:** i had trouble identifying what my interest was before 
-- **T:** Discover my skills and interest 
-- **A:** i looked at my passed achievements and identified tasks i enjoyed 
-- **R:** i came to learn i am team orientated and feel more happy working in a team than alone
+- **Situation:** i had to speak up and clear to be heared and understood 
+- **Task:** i had to repeatedly practice questions that could be asked in a interview 
+- **Action:**  repeatedly practice questions and speak up when i practice these questions 
+- **Result:** i learnt how to speak up and cleared
 
 ---
 
