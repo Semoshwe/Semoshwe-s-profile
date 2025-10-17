@@ -26,11 +26,10 @@ Hello my name is Semoshwe Mapokgole, welcome to my digital portfolio for the Wor
 - https://github.com/Semoshwe/Semoshwe-s-profile/blob/576e68491b005f5ffd4b6c8f63bbb3ed07a41b4a/interview%20skills.png
   
 ### Reflection
-- **Situation:** i had to speak up and clear to be heared and understood 
-- **Task:** i had to repeatedly practice questions that could be asked in a interview 
-- **Action:**  repeatedly practice questions and speak up when i practice these questions 
-- **Result:** i learnt how to speak up and cleared
-
+- **S:** i had to speak up and clear to be heared and understood 
+- **T:** i had to repeatedly practice questions that could be asked in a interview 
+- **A:**  repeatedly practice questions and speak up when i practice these questions 
+- **R:** i learnt how to speak up and cleared
 ---
 
 ## Mock Interview 
@@ -63,7 +62,7 @@ Hello my name is Semoshwe Mapokgole, welcome to my digital portfolio for the Wor
 ### Evidence
 - i have completed the workplace etiquette module and quiz
 - i know how to handle important information from the workplace
-- i know how to handle myself in the workplace in a way that is appropriate
+- 
 - https://github.com/Semoshwe/Semoshwe-s-profile/blob/391f3b259d00b09803d8ff3c0fc3199ad26acb55/Workplace%20Etiquette.png
   
 
